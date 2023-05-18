@@ -171,7 +171,6 @@ function isEven(number)
 ```
 **Задание 9**
 ```js
-function z9()
 function countBs(str)
 {
     let count = 0;
